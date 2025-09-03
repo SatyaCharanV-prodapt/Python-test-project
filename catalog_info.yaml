@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ai-project
+  name: python-test
   description: The place to be, for great artists
   annotations:
     github.com/project-slug: SatyaCharanV-prodapt/Python-test-project
